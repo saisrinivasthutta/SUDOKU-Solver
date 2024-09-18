@@ -87,7 +87,7 @@ if __name__ == '__main__':
         [6, 7, -1,   1, -1, 5,   -1, 4, -1],
         [1, -1, 9,   -1, -1, -1,   2, -1, -1]
     ]
-    print("Solve This Boeard :")
+    print("Solve This Board :")
     pprint(example_board)
     print("Board Solved :")
     solve_sudoku(example_board)
